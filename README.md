@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/brunomart97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomart97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomart97&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomart97&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomart97&layout=compact&langs_count=16&theme=dark"/>
 <div><br>
   
 <a href="https://www.linkedin.com/in/brunomart97" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
