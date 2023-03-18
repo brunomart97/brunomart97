@@ -1,7 +1,19 @@
-<div>
-  <a href="https://github.com/brunomart97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomart97&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomart97&layout=compact&langs_count=16&theme=dark"/>
-<div><br>
-  
-<a href="https://www.linkedin.com/in/brunomart97" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+###  Hi, I'm Bruno Martins
+<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="150" >
+
+- [x] Graduated in Information Technology Management.
+- [x] Working with e-commerce development at [**@quality-digital**](https://github.com/quality-digital).
+- [x] Creating things in [**@zonixlab**](https://github.com/zonixlab).
+- [x] (Always) watching Star Wars.
+- [ ] Playing Counter-Strike.
+- [x] Be low profile.
+
+#### Contact
+
+<a href="https://linkedin.com/in/brunomart97" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-brunomart97-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="mailto:brunomart97@hotmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-brunomart97@hotmail.com-05122A?style=flat&logo=gmail" alt="hotmail"/>
+</a>
