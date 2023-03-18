@@ -8,7 +8,7 @@
 - [x] Creating things in [**@zonixlab**](https://github.com/zonixlab).
 - [x] (Always) watching Star Wars.
 - [ ] Playing Counter-Strike.
-- [x] Be low profile.
+- [x] Being low profile.
 
 #### Contact
 
