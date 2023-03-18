@@ -1,6 +1,8 @@
 ###  Hi, I'm Bruno Martins
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="150" >
 
+#### About me
+
 - [x] Graduated in Information Technology Management.
 - [x] Working with e-commerce development at [**@quality-digital**](https://github.com/quality-digital).
 - [x] Creating things in [**@zonixlab**](https://github.com/zonixlab).
