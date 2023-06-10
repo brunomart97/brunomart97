@@ -19,7 +19,3 @@
 <a href="mailto:brunomart97@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brunomart97@hotmail.com-05122A?style=flat&logo=gmail" alt="hotmail"/>
 </a>
-
-<a href="https://steamcommunity.com/id/ZukyN/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ZuKyN-05122A?style=flat&logo=steam" alt="hotmail"/>
-</a>
